@@ -1,0 +1,159 @@
+Date : 2020-12-21 22:57:49
+Directory : c:\Users\adm\Desktop\Project U
+Total : 105 files,  8682 codes, 146 comments, 576 blanks, all 9404 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| XML                |         34 |      5,705 |          0 |         30 |      5,735 |
+| Java               |         63 |      2,941 |        146 |        539 |      3,626 |
+| TypeScript React   |          6 |         24 |          0 |          6 |         30 |
+| JSON with Comments |          1 |          8 |          0 |          0 |          8 |
+| JSON               |          1 |          4 |          0 |          1 |          5 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                   | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                      |        105 |      8,682 |        146 |        576 |      9,404 |
+| .idea                                                                                                  |          3 |        138 |          0 |          0 |        138 |
+| out                                                                                                    |         50 |      3,693 |         25 |         19 |      3,737 |
+| out\production                                                                                         |         50 |      3,693 |         25 |         19 |      3,737 |
+| out\production\Project U                                                                               |         50 |      3,693 |         25 |         19 |      3,737 |
+| out\production\Project U\com                                                                           |         32 |        904 |         25 |          1 |        930 |
+| out\production\Project U\com\thanhdo                                                                   |         32 |        904 |         25 |          1 |        930 |
+| out\production\Project U\com\thanhdo\game                                                              |         32 |        904 |         25 |          1 |        930 |
+| out\production\Project U\com\thanhdo\game\entity                                                       |          5 |        200 |         25 |          0 |        225 |
+| out\production\Project U\com\thanhdo\game\graphics                                                     |          3 |         91 |          0 |          0 |         91 |
+| out\production\Project U\com\thanhdo\game\states                                                       |          6 |        141 |          0 |          0 |        141 |
+| out\production\Project U\com\thanhdo\game\tiles                                                        |          8 |        187 |          0 |          0 |        187 |
+| out\production\Project U\com\thanhdo\game\tiles\blocks                                                 |          4 |         59 |          0 |          0 |         59 |
+| out\production\Project U\com\thanhdo\game\util                                                         |          7 |        188 |          0 |          1 |        189 |
+| out\production\Project U\tile                                                                          |         18 |      2,789 |          0 |         18 |      2,807 |
+| resource                                                                                               |         18 |      2,789 |          0 |         18 |      2,807 |
+| resource\tile                                                                                          |         18 |      2,789 |          0 |         18 |      2,807 |
+| src                                                                                                    |         31 |      2,037 |        121 |        538 |      2,696 |
+| src\com                                                                                                |         31 |      2,037 |        121 |        538 |      2,696 |
+| src\com\thanhdo                                                                                        |         31 |      2,037 |        121 |        538 |      2,696 |
+| src\com\thanhdo\game                                                                                   |         31 |      2,037 |        121 |        538 |      2,696 |
+| src\com\thanhdo\game\entity                                                                            |          5 |        674 |         57 |        138 |        869 |
+| src\com\thanhdo\game\graphics                                                                          |          3 |        275 |          2 |         90 |        367 |
+| src\com\thanhdo\game\states                                                                            |          6 |        264 |         40 |         80 |        384 |
+| src\com\thanhdo\game\tiles                                                                             |          8 |        252 |         19 |         76 |        347 |
+| src\com\thanhdo\game\tiles\blocks                                                                      |          4 |         84 |          0 |         31 |        115 |
+| src\com\thanhdo\game\util                                                                              |          6 |        436 |          1 |        114 |        551 |
++--------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                               | language           | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\adm\Desktop\Project U\.idea\misc.xml                                                          | XML                |          6 |          0 |          0 |          6 |
+| c:\Users\adm\Desktop\Project U\.idea\modules.xml                                                       | XML                |          8 |          0 |          0 |          8 |
+| c:\Users\adm\Desktop\Project U\.idea\uiDesigner.xml                                                    | XML                |        124 |          0 |          0 |        124 |
+| c:\Users\adm\Desktop\Project U\.prettierrc                                                             | JSON               |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\Project U.iml                                                           | XML                |         13 |          0 |          0 |         13 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\GameLauncher.class            | Java               |         14 |          0 |          0 |         14 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\GamePanel.class               | Java               |         59 |          0 |          0 |         59 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\Window.class                  | Java               |         24 |          0 |          0 |         24 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Animal.class           | Java               |         35 |          0 |          0 |         35 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Enemy.class            | Java               |         51 |          0 |          0 |         51 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Entity.class           | Java               |         32 |         25 |          0 |         57 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\NPC.class              | Java               |         40 |          0 |          0 |         40 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Player.class           | Java               |         42 |          0 |          0 |         42 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\graphics\Animation.class      | Java               |         19 |          0 |          0 |         19 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\graphics\Font.class           | Java               |         26 |          0 |          0 |         26 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\graphics\Sprite.class         | Java               |         46 |          0 |          0 |         46 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\GameOverState.class    | Java               |         13 |          0 |          0 |         13 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\GameState.class        | Java               |          9 |          0 |          0 |          9 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\GameStateManager.class | Java               |         34 |          0 |          0 |         34 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\MenuState.class        | Java               |         13 |          0 |          0 |         13 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\PauseState.class       | Java               |         13 |          0 |          0 |         13 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\PlayState.class        | Java               |         59 |          0 |          0 |         59 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileManager.class       | Java               |         50 |          0 |          0 |         50 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileMap.class           | Java               |          5 |          0 |          0 |          5 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileMapNorm.class       | Java               |         35 |          0 |          0 |         35 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileMapObj.class        | Java               |         38 |          0 |          0 |         38 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\Block.class      | Java               |         11 |          0 |          0 |         11 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\NormBlock.class  | Java               |         17 |          0 |          0 |         17 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\ObjBlock.class   | Java               |         16 |          0 |          0 |         16 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\WaterBlock.class | Java               |         15 |          0 |          0 |         15 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\AABB.class               | Java               |         57 |          0 |          0 |         57 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\Camera.class             | Java               |         29 |          0 |          0 |         29 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\KeyHandler$Key.class     | Java               |         10 |          0 |          1 |         11 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\KeyHandler.class         | Java               |         35 |          0 |          0 |         35 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\MouseHandler.class       | Java               |         24 |          0 |          0 |         24 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\TileCollision.class      | Java               |          5 |          0 |          0 |          5 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\Vector2f.class           | Java               |         28 |          0 |          0 |         28 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\Autumn.tsx                                | TypeScript React   |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\Normal.tsx                                | TypeScript React   |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\Winter.tsx                                | TypeScript React   |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\demama.xml                                | XML                |        276 |          0 |          1 |        277 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\final.tmx                                 | XML                |        318 |          0 |          1 |        319 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\final.xml                                 | XML                |        318 |          0 |          1 |        319 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\hello.xml                                 | XML                |        168 |          0 |          1 |        169 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\map2.tmx                                  | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\map2.xml                                  | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\test.tmx                                  | XML                |        166 |          0 |          1 |        167 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\test.xml                                  | XML                |        166 |          0 |          1 |        167 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tilemap.xml                               | XML                |        171 |          0 |          1 |        172 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tilemap1.tmx                              | XML                |        278 |          0 |          1 |        279 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tilemap1.xml                              | XML                |        278 |          0 |          1 |        279 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tontu.xml                                 | XML                |        222 |          0 |          1 |        223 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\untitled.tmx                              | XML                |         32 |          0 |          1 |         33 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\untitled1.tmx                             | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\out\production\Project U\tile\untitled1.xml                             | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\resource\tile\Autumn.tsx                                                | TypeScript React   |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\resource\tile\Normal.tsx                                                | TypeScript React   |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\resource\tile\Winter.tsx                                                | TypeScript React   |          4 |          0 |          1 |          5 |
+| c:\Users\adm\Desktop\Project U\resource\tile\demama.xml                                                | XML                |        276 |          0 |          1 |        277 |
+| c:\Users\adm\Desktop\Project U\resource\tile\final.tmx                                                 | XML                |        318 |          0 |          1 |        319 |
+| c:\Users\adm\Desktop\Project U\resource\tile\final.xml                                                 | XML                |        318 |          0 |          1 |        319 |
+| c:\Users\adm\Desktop\Project U\resource\tile\hello.xml                                                 | XML                |        168 |          0 |          1 |        169 |
+| c:\Users\adm\Desktop\Project U\resource\tile\map2.tmx                                                  | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\resource\tile\map2.xml                                                  | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\resource\tile\test.tmx                                                  | XML                |        166 |          0 |          1 |        167 |
+| c:\Users\adm\Desktop\Project U\resource\tile\test.xml                                                  | XML                |        166 |          0 |          1 |        167 |
+| c:\Users\adm\Desktop\Project U\resource\tile\tilemap.xml                                               | XML                |        171 |          0 |          1 |        172 |
+| c:\Users\adm\Desktop\Project U\resource\tile\tilemap1.tmx                                              | XML                |        278 |          0 |          1 |        279 |
+| c:\Users\adm\Desktop\Project U\resource\tile\tilemap1.xml                                              | XML                |        278 |          0 |          1 |        279 |
+| c:\Users\adm\Desktop\Project U\resource\tile\tontu.xml                                                 | XML                |        222 |          0 |          1 |        223 |
+| c:\Users\adm\Desktop\Project U\resource\tile\untitled.tmx                                              | XML                |         32 |          0 |          1 |         33 |
+| c:\Users\adm\Desktop\Project U\resource\tile\untitled1.tmx                                             | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\resource\tile\untitled1.xml                                             | XML                |         96 |          0 |          1 |         97 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\GameLauncher.java                                  | Java               |         10 |          0 |          3 |         13 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\GamePanel.java                                     | Java               |        112 |          2 |         34 |        148 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\Window.java                                        | Java               |         14 |          0 |          3 |         17 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Animal.java                                 | Java               |         96 |          0 |         13 |        109 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Enemy.java                                  | Java               |        100 |         19 |         20 |        139 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Entity.java                                 | Java               |        187 |         19 |         54 |        260 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\NPC.java                                    | Java               |        124 |          0 |         23 |        147 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Player.java                                 | Java               |        167 |         19 |         28 |        214 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\graphics\Animation.java                            | Java               |         66 |          0 |         20 |         86 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\graphics\Font.java                                 | Java               |         79 |          1 |         30 |        110 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\graphics\Sprite.java                               | Java               |        130 |          1 |         40 |        171 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\GameOverState.java                          | Java               |         23 |          0 |         11 |         34 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\GameState.java                              | Java               |         12 |          0 |          6 |         18 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\GameStateManager.java                       | Java               |         63 |          0 |         16 |         79 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\MenuState.java                              | Java               |         23 |          0 |         11 |         34 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\PauseState.java                             | Java               |         23 |          0 |         11 |         34 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\PlayState.java                              | Java               |        120 |         40 |         25 |        185 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileManager.java                             | Java               |         86 |         15 |         24 |        125 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileMap.java                                 | Java               |          6 |          0 |          3 |          9 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileMapNorm.java                             | Java               |         37 |          0 |          7 |         44 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileMapObj.java                              | Java               |         39 |          4 |         11 |         54 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\Block.java                            | Java               |         22 |          0 |          8 |         30 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\NormBlock.java                        | Java               |         20 |          0 |          7 |         27 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\ObjBlock.java                         | Java               |         21 |          0 |          8 |         29 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\WaterBlock.java                       | Java               |         21 |          0 |          8 |         29 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\AABB.java                                     | Java               |        111 |          1 |         31 |        143 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\Camera.java                                   | Java               |        122 |          0 |         22 |        144 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\KeyHandler.java                               | Java               |         83 |          0 |         18 |        101 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\MouseHandler.java                             | Java               |         59 |          0 |         19 |         78 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\TileCollision.java                            | Java               |          6 |          0 |          5 |         11 |
+| c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\Vector2f.java                                 | Java               |         55 |          0 |         19 |         74 |
+| c:\Users\adm\Desktop\Project U\workspace.code-workspace                                                | JSON with Comments |          8 |          0 |          0 |          8 |
+| Total                                                                                                  |                    |      8,682 |        146 |        576 |      9,404 |
++--------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

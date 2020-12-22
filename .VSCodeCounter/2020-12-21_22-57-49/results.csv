@@ -1,0 +1,107 @@
+"filename", "language", "JSON with Comments", "Java", "XML", "JSON", "TypeScript React", "comment", "blank", "total"
+"c:\Users\adm\Desktop\Project U\.idea\misc.xml", "XML", 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\adm\Desktop\Project U\.idea\modules.xml", "XML", 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\adm\Desktop\Project U\.idea\uiDesigner.xml", "XML", 0, 0, 124, 0, 0, 0, 0, 124
+"c:\Users\adm\Desktop\Project U\.prettierrc", "JSON", 0, 0, 0, 4, 0, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\Project U.iml", "XML", 0, 0, 13, 0, 0, 0, 0, 13
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\GameLauncher.class", "Java", 0, 14, 0, 0, 0, 0, 0, 14
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\GamePanel.class", "Java", 0, 59, 0, 0, 0, 0, 0, 59
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\Window.class", "Java", 0, 24, 0, 0, 0, 0, 0, 24
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Animal.class", "Java", 0, 35, 0, 0, 0, 0, 0, 35
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Enemy.class", "Java", 0, 51, 0, 0, 0, 0, 0, 51
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Entity.class", "Java", 0, 32, 0, 0, 0, 25, 0, 57
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\NPC.class", "Java", 0, 40, 0, 0, 0, 0, 0, 40
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\entity\Player.class", "Java", 0, 42, 0, 0, 0, 0, 0, 42
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\graphics\Animation.class", "Java", 0, 19, 0, 0, 0, 0, 0, 19
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\graphics\Font.class", "Java", 0, 26, 0, 0, 0, 0, 0, 26
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\graphics\Sprite.class", "Java", 0, 46, 0, 0, 0, 0, 0, 46
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\GameOverState.class", "Java", 0, 13, 0, 0, 0, 0, 0, 13
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\GameState.class", "Java", 0, 9, 0, 0, 0, 0, 0, 9
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\GameStateManager.class", "Java", 0, 34, 0, 0, 0, 0, 0, 34
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\MenuState.class", "Java", 0, 13, 0, 0, 0, 0, 0, 13
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\PauseState.class", "Java", 0, 13, 0, 0, 0, 0, 0, 13
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\states\PlayState.class", "Java", 0, 59, 0, 0, 0, 0, 0, 59
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileManager.class", "Java", 0, 50, 0, 0, 0, 0, 0, 50
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileMap.class", "Java", 0, 5, 0, 0, 0, 0, 0, 5
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileMapNorm.class", "Java", 0, 35, 0, 0, 0, 0, 0, 35
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\TileMapObj.class", "Java", 0, 38, 0, 0, 0, 0, 0, 38
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\Block.class", "Java", 0, 11, 0, 0, 0, 0, 0, 11
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\NormBlock.class", "Java", 0, 17, 0, 0, 0, 0, 0, 17
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\ObjBlock.class", "Java", 0, 16, 0, 0, 0, 0, 0, 16
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\tiles\blocks\WaterBlock.class", "Java", 0, 15, 0, 0, 0, 0, 0, 15
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\AABB.class", "Java", 0, 57, 0, 0, 0, 0, 0, 57
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\Camera.class", "Java", 0, 29, 0, 0, 0, 0, 0, 29
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\KeyHandler$Key.class", "Java", 0, 10, 0, 0, 0, 0, 1, 11
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\KeyHandler.class", "Java", 0, 35, 0, 0, 0, 0, 0, 35
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\MouseHandler.class", "Java", 0, 24, 0, 0, 0, 0, 0, 24
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\TileCollision.class", "Java", 0, 5, 0, 0, 0, 0, 0, 5
+"c:\Users\adm\Desktop\Project U\out\production\Project U\com\thanhdo\game\util\Vector2f.class", "Java", 0, 28, 0, 0, 0, 0, 0, 28
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\Autumn.tsx", "TypeScript React", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\Normal.tsx", "TypeScript React", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\Winter.tsx", "TypeScript React", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\demama.xml", "XML", 0, 0, 276, 0, 0, 0, 1, 277
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\final.tmx", "XML", 0, 0, 318, 0, 0, 0, 1, 319
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\final.xml", "XML", 0, 0, 318, 0, 0, 0, 1, 319
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\hello.xml", "XML", 0, 0, 168, 0, 0, 0, 1, 169
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\map2.tmx", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\map2.xml", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\test.tmx", "XML", 0, 0, 166, 0, 0, 0, 1, 167
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\test.xml", "XML", 0, 0, 166, 0, 0, 0, 1, 167
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tilemap.xml", "XML", 0, 0, 171, 0, 0, 0, 1, 172
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tilemap1.tmx", "XML", 0, 0, 278, 0, 0, 0, 1, 279
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tilemap1.xml", "XML", 0, 0, 278, 0, 0, 0, 1, 279
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\tontu.xml", "XML", 0, 0, 222, 0, 0, 0, 1, 223
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\untitled.tmx", "XML", 0, 0, 32, 0, 0, 0, 1, 33
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\untitled1.tmx", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\out\production\Project U\tile\untitled1.xml", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\resource\tile\Autumn.tsx", "TypeScript React", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\resource\tile\Normal.tsx", "TypeScript React", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\resource\tile\Winter.tsx", "TypeScript React", 0, 0, 0, 0, 4, 0, 1, 5
+"c:\Users\adm\Desktop\Project U\resource\tile\demama.xml", "XML", 0, 0, 276, 0, 0, 0, 1, 277
+"c:\Users\adm\Desktop\Project U\resource\tile\final.tmx", "XML", 0, 0, 318, 0, 0, 0, 1, 319
+"c:\Users\adm\Desktop\Project U\resource\tile\final.xml", "XML", 0, 0, 318, 0, 0, 0, 1, 319
+"c:\Users\adm\Desktop\Project U\resource\tile\hello.xml", "XML", 0, 0, 168, 0, 0, 0, 1, 169
+"c:\Users\adm\Desktop\Project U\resource\tile\map2.tmx", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\resource\tile\map2.xml", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\resource\tile\test.tmx", "XML", 0, 0, 166, 0, 0, 0, 1, 167
+"c:\Users\adm\Desktop\Project U\resource\tile\test.xml", "XML", 0, 0, 166, 0, 0, 0, 1, 167
+"c:\Users\adm\Desktop\Project U\resource\tile\tilemap.xml", "XML", 0, 0, 171, 0, 0, 0, 1, 172
+"c:\Users\adm\Desktop\Project U\resource\tile\tilemap1.tmx", "XML", 0, 0, 278, 0, 0, 0, 1, 279
+"c:\Users\adm\Desktop\Project U\resource\tile\tilemap1.xml", "XML", 0, 0, 278, 0, 0, 0, 1, 279
+"c:\Users\adm\Desktop\Project U\resource\tile\tontu.xml", "XML", 0, 0, 222, 0, 0, 0, 1, 223
+"c:\Users\adm\Desktop\Project U\resource\tile\untitled.tmx", "XML", 0, 0, 32, 0, 0, 0, 1, 33
+"c:\Users\adm\Desktop\Project U\resource\tile\untitled1.tmx", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\resource\tile\untitled1.xml", "XML", 0, 0, 96, 0, 0, 0, 1, 97
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\GameLauncher.java", "Java", 0, 10, 0, 0, 0, 0, 3, 13
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\GamePanel.java", "Java", 0, 112, 0, 0, 0, 2, 34, 148
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\Window.java", "Java", 0, 14, 0, 0, 0, 0, 3, 17
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Animal.java", "Java", 0, 96, 0, 0, 0, 0, 13, 109
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Enemy.java", "Java", 0, 100, 0, 0, 0, 19, 20, 139
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Entity.java", "Java", 0, 187, 0, 0, 0, 19, 54, 260
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\NPC.java", "Java", 0, 124, 0, 0, 0, 0, 23, 147
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\entity\Player.java", "Java", 0, 167, 0, 0, 0, 19, 28, 214
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\graphics\Animation.java", "Java", 0, 66, 0, 0, 0, 0, 20, 86
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\graphics\Font.java", "Java", 0, 79, 0, 0, 0, 1, 30, 110
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\graphics\Sprite.java", "Java", 0, 130, 0, 0, 0, 1, 40, 171
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\GameOverState.java", "Java", 0, 23, 0, 0, 0, 0, 11, 34
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\GameState.java", "Java", 0, 12, 0, 0, 0, 0, 6, 18
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\GameStateManager.java", "Java", 0, 63, 0, 0, 0, 0, 16, 79
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\MenuState.java", "Java", 0, 23, 0, 0, 0, 0, 11, 34
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\PauseState.java", "Java", 0, 23, 0, 0, 0, 0, 11, 34
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\states\PlayState.java", "Java", 0, 120, 0, 0, 0, 40, 25, 185
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileManager.java", "Java", 0, 86, 0, 0, 0, 15, 24, 125
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileMap.java", "Java", 0, 6, 0, 0, 0, 0, 3, 9
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileMapNorm.java", "Java", 0, 37, 0, 0, 0, 0, 7, 44
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\TileMapObj.java", "Java", 0, 39, 0, 0, 0, 4, 11, 54
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\Block.java", "Java", 0, 22, 0, 0, 0, 0, 8, 30
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\NormBlock.java", "Java", 0, 20, 0, 0, 0, 0, 7, 27
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\ObjBlock.java", "Java", 0, 21, 0, 0, 0, 0, 8, 29
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\tiles\blocks\WaterBlock.java", "Java", 0, 21, 0, 0, 0, 0, 8, 29
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\AABB.java", "Java", 0, 111, 0, 0, 0, 1, 31, 143
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\Camera.java", "Java", 0, 122, 0, 0, 0, 0, 22, 144
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\KeyHandler.java", "Java", 0, 83, 0, 0, 0, 0, 18, 101
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\MouseHandler.java", "Java", 0, 59, 0, 0, 0, 0, 19, 78
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\TileCollision.java", "Java", 0, 6, 0, 0, 0, 0, 5, 11
+"c:\Users\adm\Desktop\Project U\src\com\thanhdo\game\util\Vector2f.java", "Java", 0, 55, 0, 0, 0, 0, 19, 74
+"c:\Users\adm\Desktop\Project U\workspace.code-workspace", "JSON with Comments", 8, 0, 0, 0, 0, 0, 0, 8
+"Total", "-", 8, 2941, 5705, 4, 24, 146, 576, 9404
